@@ -1,0 +1,8 @@
+For everyone to work on their own projects, we are going to use branches. I will explain 1, how to create your own branch. 
+2, how to push your own branch.
+
+1 : To start of with, clone the repositry onto your systme (git clone www.....)
+2 : To create a new branch, type in the following
+                git checkout -b (Your own name)
+3 : To push, use the following command
+                git push origin (The name that you gave your branch)
